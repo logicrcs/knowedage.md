@@ -31,6 +31,18 @@ $ git branch -a
   remotes/lx/master
 ```
 
+**git branch -m <branch>** 改变分支名称
+
+```
+Administrator@PC-20210218IXTW MINGW64 ~/Desktop/企管处考核系统/knowedage.md (test)
+$ git branch -m textt
+
+Administrator@PC-20210218IXTW MINGW64 ~/Desktop/企管处考核系统/knowedage.md (textt)
+$ git branch
+  main
+* textt
+```
+
 
 
 **git branch -v** 查看每一个分支的最后一次提交
@@ -305,7 +317,7 @@ Merge made by the 'recursive' strategy.
 
 **git switch <branch>** 切换分支，作用与git checkout <branch>相同
 
-**git switch -c <branch>** 创建分支并立即切换，作用与git checkout -b <branch>相同
+**git switch -c <branch>** 创建分支并立即切换，作用与**git checkout -b <branch>**及**git branch -b <branch>**相同
 
 **git switch -f <branch>** 强行切换工作区分支
 
