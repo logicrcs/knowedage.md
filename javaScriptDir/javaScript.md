@@ -126,6 +126,34 @@ true
 ["value1","value2","value3"]
 ```
 
+***调用方式***
+
+在js中调用json是非常简单的
+
+- name["key"]是支持最全面的，既可以在括号里放字符串
+
+  也可以放字符串变量
+
+- name.key比较方便并且直观，但是不能接变量，因为其会把变量当成字符串处理
+
+```javascript
+{jxgzdxze: 474.5615, deptid: 1, Hsse: 0,allnumber: 1485,deptid: 1,deptname: "中原油田普光分公司",jxgzdxze: 474.5615,quarterpunish: -66.9183,quartersalary: 541.4798,zzjljl: 0,zzxjl: 0}
+
+var data = {jxgzdxze: 474.5615, deptid: 1, Hsse: 0,allnumber: 1485,deptid: 1,deptname: "中原油田普光分公司",jxgzdxze: 474.5615,quarterpunish: -66.9183,quartersalary: 541.4798,zzjljl: 0,zzxjl: 0}
+data["Hsse"]
+0
+data.Hsse
+0
+var x = "deptname"
+undefined
+data.x
+undefined
+data[x]
+"中原油田普光分公司"
+```
+
+ 
+
 # ajax
 
 多次ajax嵌套要将内层的ajax设置成同步，否则就无法合理的显示数据
