@@ -152,7 +152,20 @@ data[x]
 "中原油田普光分公司"
 ```
 
- 
+ 使用解构赋值提取JSON数据
+
+```javascript
+let jsonData = {
+  id: 42,
+  status: "OK",
+  data: [867, 5309]
+};
+let { id, status, data: number } = jsonData;
+console.log(id, status, number);
+// 42, "OK", [867, 5309]
+```
+
+
 
 # ajax
 
