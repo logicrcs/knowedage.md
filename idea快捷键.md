@@ -4,3 +4,5 @@
 
 去掉空白： **Ctrl + Shift + J.**
 
+代码提示的快捷键：**Ctrl + Space**
+
