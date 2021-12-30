@@ -217,6 +217,7 @@ $ git commit -a -m 'fixed the broken email address by hotfox'
 先切换到主分支上，再将hotfix合并到主分支上
 
 ```
+https://www.cnblogs.com/shine1234/p/14768585.html
 $ git checkout master
 Switched to branch 'master'
 
