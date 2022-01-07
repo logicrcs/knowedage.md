@@ -12,7 +12,7 @@
 
    - BOM：无
 
-     ![DOM,BOM](C:\Users\Administrator\Desktop\企管处考核系统\knowedage.md\img\node\node无BOM与DOM.png)
+     ![DOM,BOM](..\img\node\node无BOM与DOM.png)
 
 2. 服务器级别的API
 

@@ -85,5 +85,5 @@ VM1601:1 1000
 })();
 ```
 
-<img src="C:\Users\Administrator\Desktop\企管处考核系统\knowedage\img\javascript封装函数.png" alt="javascript封装函数" style="zoom:150%;" />
+<img src="..\img\javascript封装函数.png" alt="javascript封装函数" style="zoom:150%;" />
 
