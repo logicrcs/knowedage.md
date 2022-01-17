@@ -85,5 +85,5 @@ VM1601:1 1000
 })();
 ```
 
-<img src="..\img\javascript封装函数.png" alt="javascript封装函数" style="zoom:150%;" />
+![](https://s2.loli.net/2022/01/13/YuSfcwQkbhi1WVR.png)
 

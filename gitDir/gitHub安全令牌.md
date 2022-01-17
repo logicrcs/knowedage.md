@@ -32,6 +32,7 @@
 
    ```
    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
+   图床仓库的token：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
    ```
-
+   
    

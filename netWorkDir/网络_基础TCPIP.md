@@ -367,7 +367,7 @@ HTTP的服务器程序就是httpd，SSH的服务端程序是sshd。
 
 **源IP地址，目标IP地址，协议号，源端口号，目标端口号**
 
-![netstat -n](C:\Users\Administrator\Desktop\企管处考核系统\knowedage.md\img\网络_基础TCPIP(1·5·1).jpg)
+![](https://s2.loli.net/2022/01/13/h3w2Voq8aXjWrSl.jpg)
 
 ### 端口号的分配
 

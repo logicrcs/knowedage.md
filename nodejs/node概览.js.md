@@ -12,7 +12,7 @@
 
    - BOM：无
 
-     ![DOM,BOM](..\img\node\node无BOM与DOM.png)
+     ![](https://s2.loli.net/2022/01/13/nisegj9tHa2xB3S.png)
 
 2. 服务器级别的API
 

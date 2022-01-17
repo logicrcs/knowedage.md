@@ -23,6 +23,6 @@ https://blog.csdn.net/weixin_42836226/article/details/102809084
 
    - justify-content : center;元素在主轴（页面）上居中排列
 
-     ![image-20210917180737526](C:\Users\Administrator\Desktop\企管处考核系统\knowedage.md\img\image-20210917180737526.png)
+     ![](https://s2.loli.net/2022/01/13/p8LUNXKxrAOEsgt.png)
 
      

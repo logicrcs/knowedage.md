@@ -94,7 +94,7 @@ var flag = window.confirm("确认")
 
 会弹出下面提示框
 
-![window.confirm](..\img\window.confirm效果.png "window.confirm样式")
+![](https://s2.loli.net/2022/01/13/w6OrJ2Zc3YIDHvL.png)
 
 如果点击确认就会给flag返回一个true，取消就返回false
 

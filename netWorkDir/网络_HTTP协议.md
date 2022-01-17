@@ -185,7 +185,7 @@
 
      脚本在Web页面自行选择。
 
-     ![用户选择语言](C:\Users\Administrator\Desktop\企管处考核系统\knowedage.md\img\客户端驱动协商.png)
+     ![用户选择语言](https://s2.loli.net/2022/01/13/oZYXF2xU5ka8Keg.png)
 
   3. **透明协商(Transparent Negotiation)**
 
