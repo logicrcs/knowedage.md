@@ -115,6 +115,7 @@ true
 
 ```json
 {
+    //注意JSON中只能使用双引号
     key1:"value1",
     key2:"value2"
 }
